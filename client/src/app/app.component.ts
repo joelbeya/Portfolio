@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'client';
+  description: 'Portfolio simple CRUD made by SpringBoot, Angular and Postgresql';
 }

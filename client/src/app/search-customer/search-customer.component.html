@@ -1,0 +1,24 @@
+<mat-card class="mat-elevation-z12 globalCardForm">
+  <mat-card-header>
+    <mat-card-title>Find by age</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <form (ngSubmit)="onSubmit()">
+      <mat-form-field appearance="fill">
+        <mat-label>Age</mat-label>
+        <input [(ngModel)]="age" class="form-control" id="age"
+               matInput name="age" required type="text">
+      </mat-form-field>
+      <button color="primary" mat-raised-button
+              type="submit">Submit</button>
+    </form>
+  </mat-card-content>
+</mat-card>
+
+<mat-card>
+  <mat-list role="list">
+    <mat-list-item role="listitem"  *ngFor="let customer of customers">
+      <h4>{{ customer.id }} - {{ customer.name }} {{ customer.age }}</h4>
+    </mat-list-item>
+  </mat-list>
+</mat-card>

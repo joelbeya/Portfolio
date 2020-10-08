@@ -1,0 +1,28 @@
+<h3>Create Customer</h3>
+<mat-card class="mat-elevation-z12 globalCardForm">
+  <mat-card-header>
+    <mat-card-title>Create Customer</mat-card-title>
+  </mat-card-header>
+  <mat-card-content [hidden]="submitted">
+    <form (ngSubmit)="onSubmit()">
+      <mat-form-field appearance="fill">
+        <mat-label>Name</mat-label>
+        <input [(ngModel)]="customer.name" class="form-control" id="name"
+               matInput name="name" required type="text">
+      </mat-form-field>
+      <mat-form-field appearance="fill">
+        <mat-label>Age</mat-label>
+        <input [(ngModel)]="customer.age" class="form-control" id="age"
+               matInput name="age" required type="number">
+      </mat-form-field>
+      <button color="primary" mat-raised-button
+              type="submit">Register</button>
+    </form>
+  </mat-card-content>
+</mat-card>
+
+<mat-card [hidden]="!submitted" style="width: 300px;">
+  <h4>You submitted successfully!</h4>
+  <button mat-raised-button color="primary"
+          (click)="newCustomer()">Add</button>
+</mat-card>

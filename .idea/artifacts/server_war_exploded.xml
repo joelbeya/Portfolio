@@ -14,11 +14,11 @@
           <element id="module-output" name="server" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/2.4.0-SNAPSHOT/spring-boot-starter-data-jpa-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-data-jpa-2.4.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.4.0-SNAPSHOT/spring-boot-starter-aop-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-aop-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/2.4.0-SNAPSHOT/spring-boot-starter-data-jpa-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-data-jpa-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.4.0-SNAPSHOT/spring-boot-starter-aop-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-aop-2.4.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.0-SNAPSHOT/spring-aop-5.3.0-20201008.175127-423.jar" output-file-name="spring-aop-5.3.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.6" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/2.4.0-SNAPSHOT/spring-boot-starter-jdbc-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-jdbc-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/2.4.0-SNAPSHOT/spring-boot-starter-jdbc-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-jdbc-2.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:3.4.5" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.3.0-SNAPSHOT/spring-jdbc-5.3.0-20201008.175127-424.jar" output-file-name="spring-jdbc-5.3.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: jakarta.transaction:jakarta.transaction-api:1.3.3" />
@@ -44,7 +44,7 @@
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.0-SNAPSHOT/spring-beans-5.3.0-20201008.175127-424.jar" output-file-name="spring-beans-5.3.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.30" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.3.0-SNAPSHOT/spring-aspects-5.3.0-20201008.175127-424.jar" output-file-name="spring-aspects-5.3.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-rest/2.4.0-SNAPSHOT/spring-boot-starter-data-rest-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-data-rest-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-rest/2.4.0-SNAPSHOT/spring-boot-starter-data-rest-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-data-rest-2.4.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-webmvc/3.4.0-SNAPSHOT/spring-data-rest-webmvc-3.4.0-20201008.153153-1215.jar" output-file-name="spring-data-rest-webmvc-3.4.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-core/3.4.0-SNAPSHOT/spring-data-rest-core-3.4.0-20201008.153153-1215.jar" output-file-name="spring-data-rest-core-3.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.springframework.hateoas:spring-hateoas:1.2.0-M1" />
@@ -53,9 +53,9 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.2" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.4.0-SNAPSHOT/spring-boot-starter-web-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-web-2.4.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.4.0-SNAPSHOT/spring-boot-starter-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-2.4.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.4.0-SNAPSHOT/spring-boot-starter-logging-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-logging-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.4.0-SNAPSHOT/spring-boot-starter-web-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-web-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.4.0-SNAPSHOT/spring-boot-starter-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.4.0-SNAPSHOT/spring-boot-starter-logging-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-logging-2.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.13.3" />
@@ -63,19 +63,19 @@
           <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.30" />
           <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" />
           <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.27" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-json/2.4.0-SNAPSHOT/spring-boot-starter-json-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-json-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-json/2.4.0-SNAPSHOT/spring-boot-starter-json-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-json-2.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/2.4.0-SNAPSHOT/spring-boot-starter-tomcat-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-starter-tomcat-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/2.4.0-SNAPSHOT/spring-boot-starter-tomcat-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-starter-tomcat-2.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.38" />
           <element id="library" level="project" name="Maven: org.glassfish:jakarta.el:3.0.3" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.0-SNAPSHOT/spring-web-5.3.0-20201008.175127-424.jar" output-file-name="spring-web-5.3.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.0-SNAPSHOT/spring-webmvc-5.3.0-20201008.175127-424.jar" output-file-name="spring-webmvc-5.3.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.3.0-SNAPSHOT/spring-expression-5.3.0-20201008.175127-424.jar" output-file-name="spring-expression-5.3.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.0-SNAPSHOT/spring-boot-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-2.4.0-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.0-SNAPSHOT/spring-boot-autoconfigure-2.4.0-20201008.153304-542.jar" output-file-name="spring-boot-autoconfigure-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.0-SNAPSHOT/spring-boot-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-2.4.0-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.0-SNAPSHOT/spring-boot-autoconfigure-2.4.0-20201008.223801-543.jar" output-file-name="spring-boot-autoconfigure-2.4.0-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.2.16" />
           <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.5.0" />
           <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:2.4.0" />
